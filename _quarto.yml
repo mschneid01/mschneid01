@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: caraudio.qmd
+        text: Car Audio Build
 
 format:
   html:

@@ -1,5 +1,21 @@
 ---
-title: "Matthew Schneider"
+title: "About Me"
+image: "photos/Profile Picture.jpg"
+about:
+  template: jolla
+  image-shape: rectangle
+  links: 
+    - icon: github
+      href: https://github.com/mschneid01/
+      text: GitHub
+    - icon: linkedin
+      href: https://www.linkedin.com/in/matt-schneider-786835252/
+      text: LinkedIn
 ---
 
-Energy data analyst and University of Alberta 4th year Finance student specializing in oil and gas analytics as well as hands-on fabrication experience. Passionate about converting complex data sets into strategic insights on natural gas markets, LNG supply chains, and petroleum infrastructure, while applying that same technical creativity to advanced car audio system design and installation.
+## Matthew Schneider 
+
+Energy Data Analyst at Enverus and a 4th Year Finance student at the University of Alberta specializing in oil and gas analytics. Passionate about converting complex data sets into strategic insights on natural gas markets, LNG supply chains, and petroleum infrastructure, while applying that same technical creativity to advanced car audio system design and installation.
+
+
+

@@ -1,0 +1,47 @@
+---
+title: "Car Audio"
+format: html
+editor: visual
+---
+
+# 2014 Dodge Charger Build
+
+```{r, echo=FALSE}
+library(knitr)
+```
+
+```{r, echo=FALSE}
+knitr::include_graphics("photos/car.jpeg")
+```
+
+## Door Panels
+
+```{r, echo=FALSE}
+knitr::include_graphics("photos/doorpanel1.jpeg")
+knitr::include_graphics("photos/doorpanel2.jpeg")
+```
+
+## Sunroof Removal
+
+```{r, echo=FALSE}
+knitr::include_graphics("photos/sunroof.jpeg")
+```
+
+## Concrete Floors
+
+```{r, echo=FALSE}
+knitr::include_graphics("photos/floor.jpeg")
+knitr::include_graphics("photos/concrete.jpeg")
+knitr::include_graphics("photos/dryconcrete.jpeg")
+```
+
+## Subwoofer Enclosure
+
+```{r, echo=FALSE}
+knitr::include_graphics("photos/start.jpeg")
+knitr::include_graphics("photos/template1.jpeg")
+knitr::include_graphics("photos/template2.jpeg")
+knitr::include_graphics("photos/build3.jpeg")
+knitr::include_graphics("photos/build1.jpeg")
+knitr::include_graphics("photos/build2.jpeg")
+```

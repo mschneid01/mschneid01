@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Matthew Schneider",
+    "title": "About Me",
     "section": "",
     "text": "Energy data analyst and University of Alberta 4th year Finance student specializing in oil and gas analytics as well as hands-on fabrication experience. Passionate about converting complex data sets into strategic insights on natural gas markets, LNG supply chains, and petroleum infrastructure, while applying that same technical creativity to advanced car audio system design and installation."
   },
@@ -12,5 +12,61 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#matthew-schnieder",
+    "href": "index.html#matthew-schnieder",
+    "title": "About Me",
+    "section": "",
+    "text": "Energy data analyst and University of Alberta 4th year Finance student specializing in oil and gas analytics YUCK as well as hands-on fabrication experience. Passionate about converting complex data sets into strategic insights on natural gas markets, LNG supply chains, and petroleum infrastructure, while applying that same technical creativity to advanced car audio system design and installation."
+  },
+  {
+    "objectID": "index.html#matthew-schneider",
+    "href": "index.html#matthew-schneider",
+    "title": "About Me",
+    "section": "",
+    "text": "Energy data analyst and University of Alberta 4th year Finance student specializing in oil and gas analytics as well as hands-on fabrication experience. Passionate about converting complex data sets into strategic insights on natural gas markets, LNG supply chains, and petroleum infrastructure, while applying that same technical creativity to advanced car audio system design and installation."
+  },
+  {
+    "objectID": "caraudio.html",
+    "href": "caraudio.html",
+    "title": "Car Audio",
+    "section": "",
+    "text": "knitr::include_graphics(\"photos/car.jpeg\")"
+  },
+  {
+    "objectID": "caraudio.html#dodge-charger-build",
+    "href": "caraudio.html#dodge-charger-build",
+    "title": "Car Audio",
+    "section": "",
+    "text": "knitr::include_graphics(\"photos/car.jpeg\")"
+  },
+  {
+    "objectID": "caraudio.html#door-panels",
+    "href": "caraudio.html#door-panels",
+    "title": "Car Audio",
+    "section": "Door Panels:",
+    "text": "Door Panels:"
+  },
+  {
+    "objectID": "caraudio.html#sunroof-removal",
+    "href": "caraudio.html#sunroof-removal",
+    "title": "Car Audio",
+    "section": "Sunroof Removal:",
+    "text": "Sunroof Removal:"
+  },
+  {
+    "objectID": "caraudio.html#concrete-floors",
+    "href": "caraudio.html#concrete-floors",
+    "title": "Car Audio",
+    "section": "Concrete Floors:",
+    "text": "Concrete Floors:"
+  },
+  {
+    "objectID": "caraudio.html#subwoofer-enclosure",
+    "href": "caraudio.html#subwoofer-enclosure",
+    "title": "Car Audio",
+    "section": "Subwoofer Enclosure:",
+    "text": "Subwoofer Enclosure:"
   }
 ]
